@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+li {
+    color: #151515;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-size:20px;
+}
+.bg-light {
+    background-color: #f5f1ed!important;
+}
+a {
+    color: black;
+    transition: .7s ease;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    margin-top:30px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+h2 {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 43px;
+}
+h3 {
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;  
+}
+h4 {
+    font-size:40px;
+    font-family: 'Bebas Neue', cursive;
+}
+h5 {
+  margin-top:20px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+p {
+    font-family: 'Lato', sans-serif;
+    font-size:24px;
+}
+.card-img-overlay: hover {
+    opacity: 0.7;
+}
+small {
+    color: black;
+    font-family:'Bebas Neue', cursive;
+    font-size:20px;
+    font-size:20px;
+}
+.padding-0{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.margin-row {
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+.jumbotron {
+    margin-bottom: 0px;
+}
+.centered {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.adjust-button {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.jumbotron {
+  margin-top:30px;
+  background-color:#ab9c91;
+}
+.carousel {
+  margin: 0 auto;
+}
+body {
+    background-color: #f5f1ed;
+}
+.padding-card-txt {
+    display: flex;
+    align-items: center;
+}
